@@ -3,7 +3,7 @@
   "displayName": "Build Module",
   "description": "This package for CI through TeamCity.",
   "version": "1.0.0",
-  "unity": "2019.0",
+  "unity": "2019.1",
   "license": "MIT",
   "repository": {
     "type": "git",
