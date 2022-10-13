@@ -1,5 +1,5 @@
 {
-    "name": "grv.build-module.Editor",
+    "name": "grv.build-module.editor",
     "rootNamespace": "GRV",
     "references": [
         "GUID:e9021418bb87b1b41879012d4aeac263"
