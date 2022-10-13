@@ -1,5 +1,5 @@
 {
-    "name": "GRV.BuildModule",
+    "name": "grv.build-module",
     "rootNamespace": "GRV",
     "references": [],
     "includePlatforms": [],
